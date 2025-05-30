@@ -8,7 +8,7 @@
   alert(" i just wanted to let you know")
   alert(" that i find you attractive and cute.")
   alert(" i have to admit, i cant stop thinking about you") 
-  alert( "pero i also like your flaws, your imperfection, your personality, your vibe, your style, your worst and most of all your smile")
+  alert( "i also like your flaws, your imperfection, your personality, your vibe, your style, your worst and most of all your smile")
   alert( " but no pressure!! you dont need to reciprocate my feelings for you, siguro i jusy need to get this out of my head lng for my peace of mind hahaha")
     </script>
   </head>
