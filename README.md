@@ -1,5 +1,5 @@
+ <DOCTYPE html> 
 
-<DOCTYPE html>
 <html> 
   <head>
   <title>HI CHAT ME HAHAHA</title>
